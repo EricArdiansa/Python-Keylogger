@@ -14,4 +14,4 @@ pip3 install pyinstaller
 Compile python file to exe
 ```
 pyinstaller keylogger.py --onefile --noconsole
-``
+```
